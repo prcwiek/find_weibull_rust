@@ -1,0 +1,16 @@
+[package]
+name = "find_weibull_rust"
+version = "0.1.0"
+edition = "2021"
+authors = ["Pawel Cwiek"]
+description = "A simple finder of  the Weibull distribution parameters"
+license = "BSL-1.0 license"
+homepage = "https://github.com/prcwiek/find_weibull_rust"
+repository = "https://github.com/prcwiek/find_weibull_rust"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+csv = "1.1"
+serde = {version = "1", features = ["derive"]}
