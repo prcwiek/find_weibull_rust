@@ -18,7 +18,10 @@ St. Thomas & St. Croix (Data); NREL Report No. DA-5500-64451.<br>
 <http://dx.doi.org/10.7799/1183464><br>
 <https://midcdmz.nrel.gov/><br><br>
 Sorting function from<br>
-<https://fortran-lang.discourse.group/t/modern-fortran-sample-code/2019/4>
+<https://codereview.stackexchange.com/questions/237790/quick-sort-algorithm-in-rust>
+Gamma function from:<br>
+<https://codereview.stackexchange.com/questions/116850/gamma-function-in-rust>
+
 
 
 
